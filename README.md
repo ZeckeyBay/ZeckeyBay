@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeki Fatih TURAN
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript,Jquery,React
 - 📫 How to reach me zfatihturan@gmail.com
 
 <!---
