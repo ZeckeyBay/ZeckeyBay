@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Zeki Fatih TURAN
+- 👋 Hi, I’m @Zeki Fatih TURAN and I have an Electrical&Electronics Degree
 - 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning Javascript,Jquery,React
+- 🌱 I’m currently using HTML-CSS,Javascript
+- 🌱 I'm currently learning Jquery and React.js 
 - 📫 How to reach me zfatihturan@gmail.com
 
 <!---
