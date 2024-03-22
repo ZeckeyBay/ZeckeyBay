@@ -1,4 +1,4 @@
-👋 Hi, I’m @Zeki Fatih TURAN and I have an Electrical & Electronics Degree<br>👀 I’m interested in Frontend Development<br>🌱 I’m currently using HTML-CSS,Javascript,React.js,Tailwind.css<br>🌱 I'm currently learning React.js<br>📫 How to reach me zfatihturan@gmail.com
+👋 Hi, I’m @Zeki Fatih TURAN and I have an Electrical & Electronics Degree<br>👀 I’m interested in Frontend Development<br>🌱 I’m currently using HTML-CSS,Javascript,React.js,Tailwind.css<br>🌱 📫 How to reach me zfatihturan@gmail.com
 
 
 ## 🌐 Socials:
